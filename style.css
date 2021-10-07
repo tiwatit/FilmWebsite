@@ -1,0 +1,31 @@
+a, a:hover, a:active, a:visited { color: white; }
+
+
+#movies, #movie img{
+    width: 100%;
+}
+
+#movies .col-md-3 .well{
+     height: 390px;
+     border-radius: 6px;
+     border: 1px solid #3f3f3f;
+     margin-top: 20px;
+}
+
+.thumbnail{
+    width: 100px;
+}
+
+#movies .col-md-3 img{
+    height:240px;
+}
+
+#movie .col-md-4 img{
+    height: 360px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+#movie .col-md-4 .well{
+    border: #3f3f3f;
+}
